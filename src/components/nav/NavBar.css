@@ -1,0 +1,14 @@
+.navbar {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: left;
+}
+
+.navbar-item {
+    flex-basis: 20%;
+    margin: 1rem;
+    list-style-type: none;
+    background-color: aquamarine;
+    border-radius: 1rem;
+    text-align: center;
+}
